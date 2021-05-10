@@ -1,0 +1,12 @@
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.deps.json
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.runtimeconfig.json
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.runtimeconfig.dev.json
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfo.cs
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\juani.lopez\source\repos\AppIndevelup\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.genruntimeconfig.cache
